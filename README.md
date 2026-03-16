@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== ANIMATED BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey%2C%20I'm%20Ky%20Ky%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=@Farizky09%20•%20Backend%20Dev%20|%20AI%20Learner%20|%20System%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey%2C%20I'm%20Ky%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=@Farizky09%20•%20Backend%20Dev%20|%20AI%20Learner%20|%20System%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <br/>
@@ -20,10 +20,10 @@
 <a href="https://www.linkedin.com/in/ahmad-farizky09">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://discord.com/">
+<a href="https://discord.com/users/farizky._">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-<a href="mailto:your@email.com">
+<a href="mailto:kyfromsky999@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -161,7 +161,7 @@ I enjoy turning ideas into real systems and continuously learning new technologi
 <!-- ===== FOOTER WAVE ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"Learning By doing"* — John Dewey
 
 **⭐ Thanks for visiting my profile! Feel free to connect or collaborate!**
 
