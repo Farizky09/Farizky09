@@ -148,7 +148,7 @@ I enjoy turning ideas into real systems and continuously learning new technologi
 <br/><br/>
 
 <!-- Metrics Badge -->
-![Metrics](https://metrics.lecoq.io/Farizky09?template=classic&base=header,activity,community,repositories,metadata&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
+![Metrics](https://raw.githubusercontent.com/Farizky09/Farizky09/main/github-metrics.svg)
 
 </div>
 
@@ -159,7 +159,7 @@ I enjoy turning ideas into real systems and continuously learning new technologi
 <!-- ===== FOOTER WAVE ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"Learning By doing"* 
 
 **⭐ Thanks for visiting my profile! Feel free to connect or collaborate!**
 
