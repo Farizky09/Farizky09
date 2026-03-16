@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== ANIMATED BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey%2C%20I'm%20Ky%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=@Farizky09%20•%20Backend%20Dev%20|%20AI%20Learner%20|%20System%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey%2C%20I'm%20Ky%20Ky%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=@Farizky09%20•%20Backend%20Dev%20|%20AI%20Learner%20|%20System%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <br/>
@@ -14,10 +14,10 @@
 <a href="https://github.com/Farizky09">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://instagram.com/">
+<a href="https://www.instagram.com/fariz__kyyy/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/">
+<a href="https://www.linkedin.com/in/ahmad-farizky09">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://discord.com/">
@@ -113,7 +113,7 @@ I enjoy turning ideas into real systems and continuously learning new technologi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Farizky09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Farizky09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farizky09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
 <br/>
@@ -138,6 +138,8 @@ I enjoy turning ideas into real systems and continuously learning new technologi
   </picture>
 </div>
 
+---
+
 ## 🏅 GitHub Achievements
 
 <div align="center">
@@ -159,7 +161,7 @@ I enjoy turning ideas into real systems and continuously learning new technologi
 <!-- ===== FOOTER WAVE ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-*"Learning By doing"* 
+*"First, solve the problem. Then, write the code."* — John Johnson
 
 **⭐ Thanks for visiting my profile! Feel free to connect or collaborate!**
 
